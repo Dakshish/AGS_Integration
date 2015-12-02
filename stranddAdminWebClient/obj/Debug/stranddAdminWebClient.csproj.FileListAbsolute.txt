@@ -1,0 +1,6 @@
+E:\Avacara\2015\StrandD_Core\stranddAdminWebClient\bin\stranddAdminWebClient.dll.config
+E:\Avacara\2015\StrandD_Core\stranddAdminWebClient\bin\stranddAdminWebClient.dll
+E:\Avacara\2015\StrandD_Core\stranddAdminWebClient\bin\stranddAdminWebClient.pdb
+E:\Avacara\2015\StrandD_Core\stranddAdminWebClient\obj\Debug\stranddAdminWebClient.csprojResolveAssemblyReference.cache
+E:\Avacara\2015\StrandD_Core\stranddAdminWebClient\obj\Debug\stranddAdminWebClient.dll
+E:\Avacara\2015\StrandD_Core\stranddAdminWebClient\obj\Debug\stranddAdminWebClient.pdb
